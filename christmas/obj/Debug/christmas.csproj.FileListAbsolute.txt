@@ -1,0 +1,5 @@
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\christmas\bin\Debug\christmas.exe.config
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\christmas\bin\Debug\christmas.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\christmas\bin\Debug\christmas.pdb
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\christmas\obj\Debug\christmas.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\christmas\obj\Debug\christmas.pdb
